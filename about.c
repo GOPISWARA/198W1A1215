@@ -1,3 +1,5 @@
+
+
 #include<stdio.h>
 int main()
 {
@@ -7,6 +9,7 @@ int main()
   b=20;
   c=a+b;
   printf("the result is %d",c);
+  printf("bye bye");
   return 0;
 }
 
