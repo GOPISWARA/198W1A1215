@@ -10,6 +10,7 @@ int main()
   c=a+b;
   printf("the result is %d",c);
   printf("bye bye");
+  printf("Day2 started");
   return 0;
 }
 
